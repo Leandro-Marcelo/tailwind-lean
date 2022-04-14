@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tailwind-lean/static/css/main.99ebe3e7.css",
-    "main.js": "/tailwind-lean/static/js/main.6cb7865a.js",
+    "main.js": "/tailwind-lean/static/js/main.5ab89b22.js",
     "static/media/support.jpg": "/tailwind-lean/static/media/support.13dffa5bdb3a671bcb5b.jpg",
     "static/media/cyber-bg.png": "/tailwind-lean/static/media/cyber-bg.44527257ee32d74ae878.png",
     "index.html": "/tailwind-lean/index.html",
     "main.99ebe3e7.css.map": "/tailwind-lean/static/css/main.99ebe3e7.css.map",
-    "main.6cb7865a.js.map": "/tailwind-lean/static/js/main.6cb7865a.js.map"
+    "main.5ab89b22.js.map": "/tailwind-lean/static/js/main.5ab89b22.js.map"
   },
   "entrypoints": [
     "static/css/main.99ebe3e7.css",
-    "static/js/main.6cb7865a.js"
+    "static/js/main.5ab89b22.js"
   ]
 }
